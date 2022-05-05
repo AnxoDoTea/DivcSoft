@@ -17,4 +17,4 @@ El equipo, formado por Alba Calleja Vázquez, Lidia González López, Anxo Rodr�
 diseñando con la ayuda de sliders las consolas DMX.
 
 ## Archivos del repositorio
-En el repositorio se encuentra una carpeta llamada *Demo_exe* que contiene un ejecutable con la demo. También hay un archivo que contiene el paquete de Unity.
+En el repositorio se encuentra una carpeta llamada *Demo_exe* que contiene un ejecutable con la demo. También hay una carpeta llamada *Demo_Unity* que contiene los archivos del proyecto de Unity.

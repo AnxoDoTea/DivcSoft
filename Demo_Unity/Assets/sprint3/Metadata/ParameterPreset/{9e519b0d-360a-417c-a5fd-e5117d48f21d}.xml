@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9e519b0d-360a-417c-a5fd-e5117d48f21d}">
+		<property name="name">
+			<value>kHigh</value>
+		</property>
+		<relationship name="folder">
+			<destination>{335f4b7c-0985-4c5f-9e8b-f3ef6fff3e12}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3ad2a708-b064-496c-ae1c-7c039db1a0ca}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3ad2a708-b064-496c-ae1c-7c039db1a0ca}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="velocity">
+			<value>-4</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

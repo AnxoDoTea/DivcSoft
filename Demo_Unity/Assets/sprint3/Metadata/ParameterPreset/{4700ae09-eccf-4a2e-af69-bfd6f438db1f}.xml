@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4700ae09-eccf-4a2e-af69-bfd6f438db1f}">
+		<property name="name">
+			<value>lMid</value>
+		</property>
+		<relationship name="folder">
+			<destination>{335f4b7c-0985-4c5f-9e8b-f3ef6fff3e12}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{133f27da-36d7-43c2-8bd8-9da17352c96a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{133f27da-36d7-43c2-8bd8-9da17352c96a}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

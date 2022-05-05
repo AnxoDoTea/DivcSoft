@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6167ea58-80cd-4d11-83de-f78a14ae0637}">
+		<property name="name">
+			<value>oHigh</value>
+		</property>
+		<relationship name="folder">
+			<destination>{335f4b7c-0985-4c5f-9e8b-f3ef6fff3e12}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{65d3ad48-d484-4a20-88b0-b7c50dae0b0f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{65d3ad48-d484-4a20-88b0-b7c50dae0b0f}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

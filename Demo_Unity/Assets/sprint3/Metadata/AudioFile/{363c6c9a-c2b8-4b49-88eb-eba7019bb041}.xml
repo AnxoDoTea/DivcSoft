@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{363c6c9a-c2b8-4b49-88eb-eba7019bb041}">
+		<property name="assetPath">
+			<value>03_Overhead.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>193.03852607709752</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5d24089a-325f-48db-9e7d-aad9c9ae6e43}</destination>
+		</relationship>
+	</object>
+</objects>
